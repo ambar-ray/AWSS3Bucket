@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AWSS3Bucket": {
+      "commandName": "Project",
+      "commandLineArgs": "-b ambarbucket -f Ambar_Ray_Senior_.NET_Architect.pdf -i resume"
+    }
+  }
+}
